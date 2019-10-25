@@ -5,6 +5,7 @@ This project is designed to make it very easy to help with the distribution of T
 ## Prerequisites
 
 - node >=10
+- swarm address port open (4001) check your Firewall configuration
 
 ## Install
 
