@@ -5,6 +5,7 @@ This project is designed to make it very easy to help with the distribution of T
 ## Prerequisites
 
 - node >=10
+- require swarn ports open   ( ports to open on firewall 4001 4002 4003 )
 
 ## Install
 
